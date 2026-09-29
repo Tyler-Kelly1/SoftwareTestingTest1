@@ -1,0 +1,3 @@
+test_case_id,weight,is_ev,is_carpool,expected_exception
+TC01,-50,FALSE,FALSE,IllegalArgumentException
+TC02,0,FALSE,FALSE,IllegalArgumentException
